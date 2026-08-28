@@ -200,6 +200,5 @@ yarn test:cov    # cobertura
 **Miguel Salom**
 
 - GitHub: [@miguelsalomsalas](https://github.com/miguelsalomsalas)
+- Email: [miguel.salom.s@gmail.com](mailto:miguel.salom.s@gmail.com)
 - Frontend del proyecto (React): [teslo-shop-frontend-react](https://github.com/miguelsalomsalas/teslo-shop-frontend-react)
-  </parameter>
-  </invoke>
